@@ -16,12 +16,13 @@ opencv/
 convnet/
 decaf/
 submission/
-cfg/
 build/darknet/*
 build_*/
 !build/darknet/YoloWrapper.cs
 .fuse*
 *.weights
+*.avi
+*.mp4
 
 # OS Generated #
 .DS_Store*
