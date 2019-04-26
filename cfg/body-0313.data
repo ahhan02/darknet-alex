@@ -1,0 +1,6 @@
+classes= 1
+train   = /data/data/body/train.txt
+valid   = /data/data/body/valid.txt
+names = data/body.names
+backup = backup-body-0313/
+

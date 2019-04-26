@@ -1,0 +1,9 @@
+classes= 1
+names = data/person.names
+train   = /home/xiaomeng.han/data/person-0214/train_all.txt
+#valid   = /home/xiaomeng.han/data/person-0214/valid_all.txt
+valid   = /home/xiaomeng.han/data/person-0327/valid.txt
+#valid   = /home/xiaomeng.han/data/person-0214/valid.txt
+#valid   = /home/xiaomeng.han/data/person-coco/valid.txt
+backup = backup-person-0214
+

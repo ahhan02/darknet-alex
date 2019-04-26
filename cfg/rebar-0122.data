@@ -1,0 +1,9 @@
+classes= 1
+names = data/rebar.names
+train   = /data/data/rebar-0122/train.txt
+#valid   = /data/data/rebar-0122/train.txt
+valid   = /data/data/rebar-0122/valid.txt
+#backup = backup-rebar-0122-416/
+#backup = backup-rebar-0122-608/
+backup = backup-rebar-0122/
+

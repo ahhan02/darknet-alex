@@ -1,0 +1,9 @@
+classes= 1
+names = data/person.names
+train   = /data/data/person-0402/train.txt
+#valid   = /data/data/person-0402/valid.txt
+#valid   = /data/data/person-0402/valid_0402.txt
+#valid   = /data/data/person-0214/valid_0214.txt
+valid   = /data/data/test_cases/valid.txt
+backup = backup-person-0402
+

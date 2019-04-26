@@ -1,0 +1,17 @@
+#classes= 3
+#train   = /data/data/unmanned_shop/train.txt
+#valid   = /data/data/unmanned_shop/valid.txt
+classes= 4
+#train   = /data/data/unmanned_shop_4/train.txt
+#valid   = /data/data/unmanned_shop_4/valid.txt
+#train   = /data/data/unmanned_shop1/train.txt
+#valid   = /data/data/unmanned_shop1/valid.txt
+names = data/unmanned.names
+#train   = /data/data/annotation_273/train.txt
+#valid   = /data/data/annotation_273/valid.txt
+#train   = /data/data/unmanned_shop2/train.txt
+#valid   = /data/data/unmanned_shop2/valid.txt
+train   = /data/data/unmanned_shop3/train.txt
+valid   = /data/data/unmanned_shop3/valid.txt
+backup = backup/
+

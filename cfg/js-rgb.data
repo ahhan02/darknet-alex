@@ -1,0 +1,6 @@
+classes= 1
+train  = /data/data/js-rgb/train.txt
+valid  = /data/data/js-rgb/train.txt
+names  = data/js-rgb.names
+backup = backup-js-rgb/
+

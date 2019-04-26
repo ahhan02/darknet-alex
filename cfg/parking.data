@@ -1,0 +1,7 @@
+classes= 3
+train   = /data/data/parking/train1.txt
+#valid   = /data/data/parking/train1.txt
+valid   = /data/data/parking/valid1.txt
+names = data/parking.names
+backup = backup/
+

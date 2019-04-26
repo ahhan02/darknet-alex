@@ -1,0 +1,6 @@
+classes= 4
+train   = /data/data/annotation_30/train.txt
+valid   = /data/data/annotation_30/valid.txt
+names = data/annotation30.names
+backup = backup/
+

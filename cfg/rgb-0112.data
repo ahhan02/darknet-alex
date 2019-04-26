@@ -1,0 +1,8 @@
+classes= 1
+names = data/rgb.names
+train   = /home/xiaomeng.han/data/rgb-0112/train.txt
+valid   = /home/xiaomeng.han/data/rgb-0112/valid.txt
+#backup = backup-rgb-0112-v3/
+backup = backup-rgb-0112-v3-nocrop/
+#backup = backup-rgb-0112/
+

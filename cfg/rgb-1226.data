@@ -1,0 +1,8 @@
+classes= 1
+names = data/rgb.names
+train   = /home/xiaomeng.han/data/rgb-1226/train.txt
+#valid   = /home/xiaomeng.han/data/rgb-1226/valid.txt
+valid   = /home/xiaomeng.han/data/rgb-1226/train.txt
+#backup = backup-rgb-1207-v3/
+backup = backup-rgb-1226/
+

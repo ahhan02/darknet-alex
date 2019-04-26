@@ -1,0 +1,6 @@
+classes= 2
+train  = /home/xmhan/data/hhd/trainImagePath.txt
+valid  = /home/xmhan/data/hhd/validateImagePath.txt
+names = data/hhd.names
+backup = backup/
+

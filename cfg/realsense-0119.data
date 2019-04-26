@@ -1,0 +1,11 @@
+classes= 2
+names = data/realsense.names
+train   = /home/xiaomeng.han/data/realsense-0119/train.txt
+valid   = /home/xiaomeng.han/data/realsense-0119/valid.txt
+#valid   = /home/xiaomeng.han/data/realsense-0119/train.txt
+#backup = backup-realsense-0119/
+backup = backup-realsense-0119-v3/
+#backup = backup-realsense-0119-more/
+#backup = backup-realsense-0119-more-more/
+
+

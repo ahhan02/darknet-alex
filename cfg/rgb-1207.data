@@ -1,0 +1,6 @@
+classes= 1
+names = data/rgb.names
+train   = /data/data/rgb-1206/train.txt
+valid   = /data/data/rgb-1206/valid.txt
+backup = backup-rgb-1206/
+

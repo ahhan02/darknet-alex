@@ -1,0 +1,7 @@
+classes= 2
+names = data/unmanned2.names
+train   = /home/xiaomeng.han/data/realsense-1213/train.txt
+valid   = /home/xiaomeng.han/data/realsense-1213/valid.txt
+#backup = backup-realsense-1213/
+backup = backup-realsense-1213-v3/
+

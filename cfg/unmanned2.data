@@ -1,0 +1,8 @@
+classes= 2
+names = data/unmanned2.names
+train   = /data/data/1106-yolo-hhd/train.txt
+#valid   = /data/data/1106-yolo-hhd/valid.txt
+#valid   = /data/data/1108/valid.txt
+valid   = /data/data/1113-yolo-hhd/valid.txt
+backup = backup/
+

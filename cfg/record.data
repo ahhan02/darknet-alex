@@ -1,0 +1,6 @@
+classes= 2
+train   = /data/data/record/train.txt
+valid   = /data/data/record/valid.txt
+names = data/hhd.names
+backup = backup-record/
+

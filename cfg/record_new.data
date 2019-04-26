@@ -1,0 +1,6 @@
+classes= 3
+train   = /data/data/record_new/train.txt
+valid   = /data/data/record_new/valid.txt
+names = data/record.names
+backup = backup/
+

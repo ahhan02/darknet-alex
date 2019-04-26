@@ -1,0 +1,8 @@
+classes= 4
+#train   = /data/data/annotation_30/train.txt
+#valid   = /data/data/annotation_30/valid.txt
+train   = /data/data/annotation_8_ft/train.txt
+valid   = /data/data/annotation_8_ft/valid.txt
+names = data/annotation30.names
+backup = backup/
+
