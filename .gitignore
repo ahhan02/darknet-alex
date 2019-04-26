@@ -10,7 +10,6 @@
 *.exe
 *.dll
 mnist/
-data/
 caffe/
 grasp/
 images/
@@ -39,3 +38,4 @@ Thumbs.db
 
 lib/
 share/
+__pycache__/
